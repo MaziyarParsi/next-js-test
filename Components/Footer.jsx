@@ -1,10 +1,10 @@
-
+import  Link from 'next/link'
 
 const Footer = () => {
  return (
-  <div>
+  <footer>
    <p>Copyright 2021</p>
-  </div>
+  </footer>
  )
 }
 
